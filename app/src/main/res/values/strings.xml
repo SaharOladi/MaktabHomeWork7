@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MaktabHomeWork7</string>
+    <string name="txt_red">RED</string>
+    <string name="txt_orange">ORANGE</string>
+    <string name="txt_green">GREEN</string>
+    <string name="txt_yellow">YELLOW</string>
+    <string name="txt_blue">BLUE</string>
+    <string name="txt_indigo">INDIGO</string>
+    <string name="txt_violet">VIOLET</string>
+</resources>
